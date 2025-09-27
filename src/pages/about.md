@@ -3,35 +3,20 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+Hi, I'm **Yogish**. I make apps and write about it sometimes.
 
-![Astro Paper](public/astropaper-og.jpg)
+Based in Vienna, working on mobile stuff for the past decade or so.
 
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+## This Blog
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
+Where I write about code, ideas, and things I'm figuring out.
 
-## Features
+## Get In Touch
 
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
+Feel free to reach out if you want to chat about anything!
 
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
+- **Email**: [yogishmanjunath@icloud.com](mailto:yogishmanjunath@icloud.com)
+- **GitHub**: [github.com/iamyogish](https://github.com/iamyogish)
+- **LinkedIn**: [linkedin.com/in/yogishmanjunath](https://www.linkedin.com/in/yogish-manjunath/)
 
-and so much more.
-
-## Show your support
-
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
-
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
-
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
-
-Kyay zuu! 🙏🏼
+Thanks for stopping by! 🚀
